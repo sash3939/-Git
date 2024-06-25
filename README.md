@@ -157,11 +157,31 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 исправить её и выложить исправленный код в продакшн. Мы никуда не будем выкладывать код, но пометим некоторые коммиты тегами и создадим от них ветки. 
 
 1. Создайте легковестный тег `v0.0` на HEAD-коммите и запуште его во все три добавленных на предыдущем этапе `upstream`.
-1. Аналогично создайте аннотированный тег `v0.1`.
-1. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
+2. Аналогично создайте аннотированный тег `v0.1`.
+3. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
     * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
+
+## РЕШЕНИЕ 2. Теги
+
+
+[create ann tag](https://github.com/sash3939/-Git/assets/156709540/5ed1a03f-79b4-4179-a890-ced5d4fadb0e)
+----
+
+[gitlab web tag](https://github.com/sash3939/-Git/assets/156709540/8cd8fadb-7ee7-422e-9443-15de119ec18a)
+[gitlab cmd tag](https://github.com/sash3939/-Git/assets/156709540/056368ec-16f2-481a-b170-941fba1b92a3)
+----
+
+[bitbucket web tag](https://github.com/sash3939/-Git/assets/156709540/a800e05f-1810-4ce3-a3f1-6b1a45cf9884)
+[bitbucket cmd tag](https://github.com/sash3939/-Git/assets/156709540/9c733e46-c388-4bd5-9e93-cb4713ca04be)
+----
+
+[github cmd tag](https://github.com/sash3939/-Git/assets/156709540/b5a891c5-7f93-4d1c-ab3c-37409750c877)
+----
+
+
+
 
 ## Задание 3. Ветки 
 
