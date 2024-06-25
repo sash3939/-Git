@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Основы Git»
+![image](https://github.com/sash3939/-Git/assets/156709540/68980058-acbf-48ab-b7ff-9f9ea3b16dca)# Домашнее задание к занятию «Основы Git»
 
 ### Цель задания
 
@@ -231,12 +231,20 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
    ----
 
 4. [branch fix](https://github.com/sash3939/-Git/assets/156709540/c7ed0b00-67b0-4688-a918-b12c67fcdd41)
-----
+   ----
 
-5. [git push](https://github.com/sash3939/-Git/assets/156709540/7f2e53e4-e276-4176-9760-a475dde8671a)
-----
+5. [git push](https://github.com/sash3939/-Git/assets/156709540/c8dfc5d1-2cfb-483f-9885-2101be68b8d8)
+   ----
 
-6. 
+6. [network](https://github.com/sash3939/-Git/assets/156709540/82b43021-168e-4f1c-a64e-4d2a37684bd4)
+   ----
+
+7,8. [change](https://github.com/sash3939/-Git/assets/156709540/e91100a5-4bd9-4c8c-8aa9-416c5f5729fc)
+     ----
+      [git log](https://github.com/sash3939/-Git/assets/156709540/ff85cf33-715b-49fd-8727-dc107e2f9566)
+      
+    ----
+
 
 ## Задание 4. Упрощаем себе жизнь
 
