@@ -222,10 +222,10 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 ## РЕШЕНИЕ 3. Ветки
 
 1. [main](https://github.com/sash3939/-Git/assets/156709540/8fdf9cfb-ceab-4f48-9fb5-8d7f155ce61b)
-----
+   ----
 
-2. [git log --grep](https://github.com/sash3939/-Git/assets/156709540/8d86b2b6-2e0e-442f-9a98-1bff512bc4db)
-----
+2. [git log --grep](https://github.com/sash3939/-Git/assets/156709540/13b152cd-601c-4500-873b-8e9b3e940ba4)
+   ----
 
 3. [git checkout](https://github.com/sash3939/-Git/assets/156709540/21b9f28c-5aa2-4b77-9462-4efadd4a62bc)
 ----
