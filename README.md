@@ -174,6 +174,14 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 [create ann tag](https://github.com/sash3939/-Git/assets/156709540/5ed1a03f-79b4-4179-a890-ced5d4fadb0e)
 ----
 
+[git push](https://github.com/sash3939/-Git/assets/156709540/925a8fbe-bcc5-423d-83bb-90657bccf761)
+----
+
+[git push1](https://github.com/sash3939/-Git/assets/156709540/6b8beac2-ca13-4b0f-a495-f398252d214a)
+----
+
+----
+
 [gitlab web tag](https://github.com/sash3939/-Git/assets/156709540/8cd8fadb-7ee7-422e-9443-15de119ec18a)
 [gitlab cmd tag](https://github.com/sash3939/-Git/assets/156709540/056368ec-16f2-481a-b170-941fba1b92a3)
 ----
