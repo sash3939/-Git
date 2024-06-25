@@ -119,9 +119,36 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 Последовательность действий в скриншотах:
 
+**GITLAB**
+
 [repo](https://github.com/sash3939/-Git/assets/156709540/5a766f4e-cafe-4548-a136-b2b87640d07c)
 ----
 
+[git remote -v](https://github.com/sash3939/-Git/assets/156709540/d527b608-d7a9-4073-98a5-47b1f33ecf01)
+----
+
+[git push](https://github.com/sash3939/-Git/assets/156709540/c4111a57-d820-42ea-9039-45fa66f4fd6f)
+----
+
+[git remote after push https](https://github.com/sash3939/-Git/assets/156709540/a3f10969-2707-4404-ac7c-21d90f7fea2f)
+----
+
+[web gitlab](https://github.com/sash3939/-Git/assets/156709540/ddcbdefa-eee6-4adb-a773-1278712ff3f1)
+----
+
+**BITBUCKET**
+
+[create repo](https://github.com/sash3939/-Git/assets/156709540/0976f925-d31f-4732-919b-0da5e66052fa)
+----
+
+[git remote -v](https://github.com/sash3939/-Git/assets/156709540/486ed2c3-a4b3-47a0-a147-b4d794204a78)
+----
+
+[git push ssh](https://github.com/sash3939/-Git/assets/156709540/4bd1ff3e-1742-47e9-8e96-27d8c4669cf6)
+----
+
+[web bitbucket](https://github.com/sash3939/-Git/assets/156709540/26e49e77-c27f-4cf7-925c-f1b918bc828d)
+----
 
 
 ## Задание 2. Теги
