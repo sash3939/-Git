@@ -198,11 +198,24 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 и как изменится вывод команды `git log`.
 
 
-## РЕШЕНИЕ 2. Ветки
+## РЕШЕНИЕ 3. Ветки
 
 1. [main](https://github.com/sash3939/-Git/assets/156709540/8fdf9cfb-ceab-4f48-9fb5-8d7f155ce61b)
 ----
 
+2. [git log --grep](https://github.com/sash3939/-Git/assets/156709540/8d86b2b6-2e0e-442f-9a98-1bff512bc4db)
+----
+
+3. [git checkout](https://github.com/sash3939/-Git/assets/156709540/21b9f28c-5aa2-4b77-9462-4efadd4a62bc)
+----
+
+4. [branch fix](https://github.com/sash3939/-Git/assets/156709540/c7ed0b00-67b0-4688-a918-b12c67fcdd41)
+----
+
+5. [git push](https://github.com/sash3939/-Git/assets/156709540/7f2e53e4-e276-4176-9760-a475dde8671a)
+----
+
+6. 
 
 ## Задание 4. Упрощаем себе жизнь
 
