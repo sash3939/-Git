@@ -227,8 +227,8 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 2. [git log --grep](https://github.com/sash3939/-Git/assets/156709540/13b152cd-601c-4500-873b-8e9b3e940ba4)
    ----
 
-3. [git checkout](https://github.com/sash3939/-Git/assets/156709540/21b9f28c-5aa2-4b77-9462-4efadd4a62bc)
-----
+3. [git checkout commit](https://github.com/sash3939/-Git/assets/156709540/7b5c27ca-6430-4ff8-a5cf-f19454b0fcd7)
+   ----
 
 4. [branch fix](https://github.com/sash3939/-Git/assets/156709540/c7ed0b00-67b0-4688-a918-b12c67fcdd41)
 ----
