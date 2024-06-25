@@ -116,7 +116,9 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 Подсказка: `git push -u gitlab main`. На этом этапе история коммитов во всех трёх репозиториях должна совпадать. 
 
 ## РЕШЕНИЕ 1. Знакомимся с GitLab и Bitbucket
+
 Последовательность действий в скриншотах:
+
 [repo](https://github.com/sash3939/-Git/assets/156709540/5a766f4e-cafe-4548-a136-b2b87640d07c)
 ----
 
