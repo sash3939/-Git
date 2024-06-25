@@ -240,8 +240,7 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
    ----
 
 7,8. [change](https://github.com/sash3939/-Git/assets/156709540/e91100a5-4bd9-4c8c-8aa9-416c5f5729fc)
-     ----
-      [git log](https://github.com/sash3939/-Git/assets/156709540/ff85cf33-715b-49fd-8727-dc107e2f9566)
+     [git log](https://github.com/sash3939/-Git/assets/156709540/ff85cf33-715b-49fd-8727-dc107e2f9566)
       
     ----
 
