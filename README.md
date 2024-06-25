@@ -147,7 +147,12 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 [git push ssh](https://github.com/sash3939/-Git/assets/156709540/4bd1ff3e-1742-47e9-8e96-27d8c4669cf6)
 ----
 
-[web bitbucket](https://github.com/sash3939/-Git/assets/156709540/26e49e77-c27f-4cf7-925c-f1b918bc828d)
+[git push bitbucket](https://github.com/sash3939/-Git/assets/156709540/77c4a9b3-059f-436d-85bf-7788e701dc22)
+----
+
+[web bitbucket](https://github.com/sash3939/-Git/assets/156709540/1b691883-e68d-4023-93e3-931b86acb890)
+----
+
 ----
 
 
