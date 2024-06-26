@@ -250,12 +250,12 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 Попробуем поработь с Git при помощи визуального редактора. 
 
 1. В используемой IDE PyCharm откройте визуальный редактор работы с Git, находящийся в меню View -> Tool Windows -> Git.
-1. Измените какой-нибудь файл, и он сразу появится на вкладке `Local Changes`, отсюда можно выполнить коммит, нажав на кнопку внизу этого диалога. 
-1. Элементы управления для работы с Git будут выглядеть примерно так:
+2. Измените какой-нибудь файл, и он сразу появится на вкладке `Local Changes`, отсюда можно выполнить коммит, нажав на кнопку внизу этого диалога.
+3. Элементы управления для работы с Git будут выглядеть примерно так:
 
    ![Работа с гитом](img/ide-git-01.jpg)
-   
-1. Попробуйте выполнить пару коммитов, используя IDE. 
+
+4. Попробуйте выполнить пару коммитов, используя IDE. 
 
 [По ссылке](https://www.jetbrains.com/help/pycharm/commit-and-push-changes.html) можно найти справочную информацию по визуальному интерфейсу. 
 
@@ -264,6 +264,21 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
  
+## РЕШЕНИЕ 4. Упрощаем себе жизнь
+
+[change README](https://github.com/sash3939/-Git/assets/156709540/94a89637-1ea9-48c4-9d4a-79625d28de2d)
+----
+
+[view changes](https://github.com/sash3939/-Git/assets/156709540/132777ac-2ec6-4b0e-aff6-be6acffe8003)
+----
+
+[push](https://github.com/sash3939/-Git/assets/156709540/94f0043e-fd96-4ab0-899e-fa5230a228ce)
+----
+
+[github changes](https://github.com/sash3939/-Git/assets/156709540/66775437-6fe8-43dc-ae50-6e6c996b9713)
+----
+
+
 
 
 https://github.com/sash-39/devops-netology/tree/main
