@@ -1,4 +1,4 @@
-![image](https://github.com/sash3939/-Git/assets/156709540/68980058-acbf-48ab-b7ff-9f9ea3b16dca)# Домашнее задание к занятию «Основы Git»
+# Домашнее задание к занятию «Основы Git»
 
 ### Цель задания
 
@@ -264,4 +264,16 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
  
+
+
+https://github.com/sash-39/devops-netology/tree/main
+----
+
+https://bitbucket.org/sash_39/devops-netology/src/main/
+----
+
+https://gitlab.com/sash-39/devops-netology
+----
+
+
 ----
